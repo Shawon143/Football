@@ -39,19 +39,19 @@ body {
     background: #E02C6D;
     padding: 10px 24px;
     color: white;
-    transition: transform 0.5s;
 }
 
 .top_button a:hover .fas {
-    transform: rotate(270deg);
+    transform: translatex(10px);
 }
 
 .fas {
     width: 24px;
     height: 24px;
     color: white;
-    padding-left: 5px;
+    padding-left: 2px;
     text-align: center;
+    transition: transform 0.9s;
 }
 
 .top_image img {
