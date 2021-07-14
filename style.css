@@ -202,7 +202,7 @@ main {
         display: grid;
         grid-template-columns: 1fr;
         grid-column-gap: 0px;
-        grid-row-gap: 0px;
+        grid-row-gap: 24px;
         padding: 47px 210px 65px 40px;
     }
     .player {
