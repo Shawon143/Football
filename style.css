@@ -183,7 +183,7 @@ main {
     .half_width {
         width: 100%;
         padding: 10px;
-        margin-left: 100px;
+        margin-left: 50px;
     }
     .top_title h1 {
         color: white;
@@ -203,7 +203,7 @@ main {
         grid-template-columns: 1fr;
         grid-column-gap: 0px;
         grid-row-gap: 24px;
-        padding: 47px 210px 65px 40px;
+        padding: 47px 210px 65px 20px;
     }
     .player {
         width: 330px;
